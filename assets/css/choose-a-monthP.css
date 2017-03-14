@@ -1,0 +1,14 @@
+p {
+  /*margin:0 0 10px;*/
+  font-size:23px;
+  font-family:'PT Sans';
+}
+
+.navbar-fixed-top + .content-container {
+  margin-top:70px;
+}
+
+.content-container {
+  margin:0 130px;
+}
+

@@ -1,0 +1,19 @@
+body {
+  background-image:url("../../assets/img/squairy_light.png");
+  padding-top:60px;
+  margin:0;
+}
+
+p {
+  /*margin:0 0 10px;*/
+  /*padding-top:15px;*/
+  /*padding-bottom:15px;*/
+  font-size:23px;
+  font-family:'PT Sans';
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
